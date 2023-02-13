@@ -6,7 +6,10 @@ then I write it down in this folder using python.
 ## Sorting
 1. Merge Sort
 2. Quick Sort
-
+3. Buble Sort
+4. Insertion Sort
+5. Selection Sort
+6. Radix Sort
 ## Searching
 1. Binary Search
 
